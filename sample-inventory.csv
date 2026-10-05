@@ -1,0 +1,4 @@
+sku,name,on_hand,incoming,lead_time_days,expiry_90d,cost,demand_history,reserved,lead_time_sd,baseline_lead_time_days,upstream_available,mandated
+DEMO101,Metformin 500 mg,36,0,5,0,8.5,8|9|7|10|8|11|9|12|10|8|13|11|12|10,0,0,5,true,true
+DEMO102,Amlodipine 5 mg,122,0,4,28,6.2,4|3|4|5|3|4|4|3|4|4|5|3|4|4,0,0,4,true,false
+DEMO103,Telmisartan 40 mg,27,0,8,0,13.2,4|5|6|4|7|5|6|7|5|8|6|7|6|8,0,0,6,false,true

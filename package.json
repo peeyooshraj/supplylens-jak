@@ -1,0 +1,9 @@
+{
+  "name": "supplylens-jak",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Read-only inventory exception and decision-support prototype for Jan Aushadhi Kendra operations",
+  "scripts": {
+    "test": "node supplylens-engine.test.mjs && node supplylens-ui-contract.test.mjs"
+  }
+}
